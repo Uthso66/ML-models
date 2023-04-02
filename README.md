@@ -1,2 +1,2 @@
-# Simple-Fashion-MNIST-model
+#1. Simple-Fashion-MNIST-model
 Beginner-level model for fashion mnist dataset with TensorFlow and Keras. 
